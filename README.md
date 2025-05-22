@@ -6,7 +6,7 @@ This repository contains a deliberately vulnerable golang (go) application desig
 
 :warning: **WARNING: This application contains intentionally vulnerable code and should never be run in a production environment or used for any real-world purposes. Running this code can potentially harm your system or expose it to security risks.** :warning:
 
-The vulnerabilities present in this code are for educational and testing purposes only. They are designed to highlight the importance of secure coding practices and to provide a platform for testing static analysis tools...
+The vulnerabilities present in this code are for educational and testing purposes only. They are designed to highlight the importance of secure coding practices and to provide a platform for testing static analysis tools....
 
 ## Purpose
 
