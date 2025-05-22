@@ -2,7 +2,7 @@
 
 This repository contains a deliberately vulnerable golang (go) application designed to demonstrate unsafe programming practices and common security vulnerabilities. The purpose of this application is to serve as an educational resource for developers to learn about secure coding practices and to test static analysis tools.
 
-## Disclaimer
+## Disclaimer...
 
 :warning: **WARNING: This application contains intentionally vulnerable code and should never be run in a production environment or used for any real-world purposes. Running this code can potentially harm your system or expose it to security risks.** :warning:
 
